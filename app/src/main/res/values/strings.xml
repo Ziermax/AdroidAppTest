@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">PruebaTEST</string>
+	<string name="male">Hombre</string>
+	<string name="female">Mujer</string>
+	<string name="height">Altura</string>
+	<string name="weight">Peso</string>
+	<string name="age">Edad</string>
+	<string name="age_unit">Años</string>
+	<string name="calculate">Calcular</string>
+	<string name="recalculate">Re-calcular</string>
+	<string name="result">Tu Resultado</string>
+	<string name="error">ERROR</string>
+	<string name="title_vunder_imc">Muy bajo peso</string>
+	<string name="title_under_imc">Bajo peso</string>
+	<string name="title_normal_imc">Normal</string>
+	<string name="title_over_imc">Sobrepeso</string>
+	<string name="title_obesity_imc">Obesidad</string>
+	<string name="description_vunder_imc">Estás MUY por debajo del peso recomendado para tu edad y estatura</string>
+	<string name="description_under_imc">Estás por debajo del peso recomendado para tu edad y estatura</string>
+	<string name="description_normal_imc">Estás en el peso recomendado para tu edad y estatura</string>
+	<string name="description_over_imc">Estás por encima del peso recomendado para tu edad y estatura</string>
+	<string name="description_obesity_imc">Estás MUY por encima del peso recomendado para tu edad y estatura</string>
+</resources>

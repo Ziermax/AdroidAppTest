@@ -20,4 +20,16 @@
 	<string name="description_normal_imc">Estás en el peso recomendado para tu edad y estatura</string>
 	<string name="description_over_imc">Estás por encima del peso recomendado para tu edad y estatura</string>
 	<string name="description_obesity_imc">Estás MUY por encima del peso recomendado para tu edad y estatura</string>
+
+	<!--TodoApp-->
+	<string name="todo_title">To Do List</string>
+	<string name="todo_categories">Categorías:</string>
+	<string name="todo_tasks">Tareas:</string>
+
+	<string name="todo_dialog_add_task">Añade la tarea</string>
+	<string name="todo_dialog_category_business">Negocios</string>
+	<string name="todo_dialog_category_other">Otros</string>
+	<string name="todo_dialog_category_personal">Personal</string>
+	<string name="todo_dialog_add_task_button">Crear tarea</string>
+
 </resources>

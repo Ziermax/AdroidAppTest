@@ -120,8 +120,8 @@ class ImcCalculatorActivity : AppCompatActivity() {
 	}
 
 	private fun setGenderColor() {
-		viewMale.setBackgroundColor(getBackGenderColor(isMaleSelected))
-		viewFemale.setBackgroundColor(getBackGenderColor(isFemaleSelected))
+		viewMale.setCardBackgroundColor(getBackGenderColor(isMaleSelected))
+		viewFemale.setCardBackgroundColor(getBackGenderColor(isFemaleSelected))
 	}
 
 	private fun getBackGenderColor(isComponentSelected: Boolean): Int {
